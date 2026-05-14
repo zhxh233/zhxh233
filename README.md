@@ -1,5 +1,5 @@
 - 👋 Hi, this is @zhxh233
-- 🌱 A PhD candidate major in bioinformatics
+- 🌱 A PhD candidate (defense passed) major in bioinformatics
 - 💪 Python, Shell
 - 📫 zhxh96@gmail.com
 
